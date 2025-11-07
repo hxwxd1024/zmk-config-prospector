@@ -3,6 +3,7 @@
  * Only used when CONFIG_PROSPECTOR_USE_AMBIENT_LIGHT_SENSOR=y
  */
 
+
 // I2C0 configuration for ambient light sensor
 &i2c0 {
     compatible = "nordic,nrf-twim";
